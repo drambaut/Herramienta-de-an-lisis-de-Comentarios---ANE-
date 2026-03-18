@@ -3,7 +3,8 @@
 > Plataforma de análisis automático de comentarios de consultas públicas, impulsada por IA generativa (Gemini 2.5 Flash) y construida con Streamlit.
 
 <div align="center">
-  <video src="assets/demo.mp4" width="100%" autoplay loop muted></video>
+  <video src="assets/demo.mp4" width="100%" autoplay loop muted playsinline>
+    Tu navegador no soporta videos.
   </video>
 </div>
 ---
@@ -25,8 +26,6 @@ Convierte un archivo Excel de comentarios de consulta pública en un informe eje
 | KPIs y panorama general | Tarjetas de temas con posturas |
 |---|---|
 | ![kpis](assets/KPIs.png) | ![temas](assets/Topics.png) |
-
-> Reemplaza las imágenes anteriores con capturas reales de cada sección si lo deseas.
 
 ---
 
